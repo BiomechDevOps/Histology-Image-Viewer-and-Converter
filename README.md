@@ -1,1 +1,1 @@
-# Histology-Image-Viewer-and-Converter
+# Histology Image Viewer and Converter
